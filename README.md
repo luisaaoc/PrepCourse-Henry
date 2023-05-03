@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio sobre el curso previo para ingreso al bootcamp henry
+Luisa Oñate: Esto es una prueba sobre como crear un repositorio y clonarlo en mi escritorio local
